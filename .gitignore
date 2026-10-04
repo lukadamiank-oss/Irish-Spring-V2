@@ -1,0 +1,18 @@
+# Local data and database files stay out of Git.
+/data/
+/database/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.Rhistory
+*.log
+*.tmp
+*.bak

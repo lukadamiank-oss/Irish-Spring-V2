@@ -1,0 +1,6 @@
+[project]
+name = "irish-spring-v2"
+version = "0.1.0"
+description = "Irish Spring V2: SQL validation and development over a preserved price snapshot"
+requires-python = ">=3.12"
+dependencies = ["duckdb==1.5.5", "pyarrow==25.0.1"]
